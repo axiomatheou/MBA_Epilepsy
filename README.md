@@ -50,7 +50,4 @@ No es un modelo biofísico ni clínico.
 Santiago Caballero Rosas  
 axiomatheou@ciencias.unam.mx  
 Facultad de Ciencias, UNAM
-
-axiomatheou@ciencias.unam.mx  
-Facultad de Ciencias, UNAM
 ****
