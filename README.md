@@ -4,7 +4,7 @@ Modelo basado en agentes de epilepsia como transición de fase hacia estados de 
 
 Proyecto final del curso de Modelación Basada en Agentes, Facultad de Ciencias, UNAM.
 
-Autor: Santiago Caballero Rosas  
+Santiago Caballero Rosas  
 
 ## Ejecución del modelo
 
